@@ -1,6 +1,6 @@
-# Single-Page-CV
+# Basic HTML Website
 ### 🌟 RoadMap Project
-Single Page CV that include:
+Basic HTML Website that include:
 
 ✔️ Semantically correct HTML structure.
 
@@ -19,7 +19,7 @@ https://roadmap.sh/projects/basic-html-website
    
    ```bash
    gh repo clone Jarabey/Basic_HTML_Website
-2. Open index.html in a web browser to view the CV.
+2. Open index.html in a web browser to view the Website.
 3. Customize the content in the HTML file, such as replacing links and modifying text to suit your profile.
 
 ### 🌟 Live Website
