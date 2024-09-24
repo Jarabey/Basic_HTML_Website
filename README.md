@@ -23,4 +23,4 @@ https://roadmap.sh/projects/basic-html-website
 3. Customize the content in the HTML file, such as replacing links and modifying text to suit your profile.
 
 ### 🌟 Live Website
-[Jasmin Santos CV](https://jasminsantoscv.netlify.app/)
+[Jasmin Santos Portfolio](https://htmlbasicwebsite.netlify.app/)
